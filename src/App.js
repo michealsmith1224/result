@@ -19,7 +19,7 @@ function App() {
               <h3 className="text-capitalize pt-4 text-white great ">great</h3>
 
               <p className="pb-4 gray-color small ">
-                You scored higher than 65% of the people who have taken the test
+                You scored higher than 50% of the people who have taken the test
               </p>
             </div>
             <div className="col-md-6 border-end-4 px-4 pb-3 ">
