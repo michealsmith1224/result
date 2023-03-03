@@ -2,7 +2,7 @@
   "name": "result",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://michealsmith1224.github.io/resultpreview",
+  "homepage": " https://michealsmith1224.github.io/resultpreview/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
