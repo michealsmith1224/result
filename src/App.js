@@ -9,12 +9,16 @@ function App() {
       <div className="container p-5 w-100">
         <div className="result-container ">
           <div className="row ">
-            <div className="col-md-6 first-row rounded-5 text-center d-flex align-items-center justify-content-center flex-column padding-5">
+            <div className="col--6 first-row rounded-5 text-center d-flex align-items-center justify-content-center flex-column padding-5">
               <h4 className="py-4 gray-color small fs-5">Your Result</h4>
               <div className="rounded-circle text-center  a-animation animate__pulse  ">
                 <div className="total">76</div>
                 <div className="gray-color">of 100</div>
+                {
+                name.map()
+}
               </div>
+              
 
               <h3 className="text-capitalize pt-4 text-white great ">great</h3>
 
