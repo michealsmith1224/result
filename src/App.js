@@ -14,9 +14,6 @@ function App() {
               <div className="rounded-circle text-center  a-animation animate__pulse  ">
                 <div className="total">76</div>
                 <div className="gray-color">of 100</div>
-                {
-                name.map()
-}
               </div>
               
 
